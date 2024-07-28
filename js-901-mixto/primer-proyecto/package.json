@@ -1,0 +1,14 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node_hola_mundo.js",
+    "saludar": "Hola",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drake",
+  "license": "ISC"
+}
+
